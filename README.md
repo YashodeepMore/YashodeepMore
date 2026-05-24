@@ -7,8 +7,8 @@
 <p align="center">
   <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> •
   <a href="https://www.linkedin.com/in/yashodeep-more-056299231/">LinkedIn</a> •
-  <a href="YOUR_GITHUB_LINK](https://github.com/YashodeepMore">Projects</a> •
-  <a href="YOUR_LEETCODE_LINK](https://leetcode.com/u/YashodeepMore/">LeetCode</a>
+  <a href="https://github.com/YashodeepMore">Projects</a> •
+  <a href="https://leetcode.com/u/YashodeepMore/">LeetCode</a>
 </p>
 
 ---
