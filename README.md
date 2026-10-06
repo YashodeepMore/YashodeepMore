@@ -347,6 +347,18 @@ CTGAN          0.43
 
 ---
 
+# 📊 Engineering & Competitive Programming
+
+<p align="center">
+
+  <img 
+    src="https://codeforces-readme-stats.vercel.app/api/card?username=YashodeepMore"
+    height="180"
+  />
+</p>
+
+---
+
 # 📊 GitHub Activity
 
 <p align="center">
